@@ -1,2 +1,4 @@
-# aixindao.github.io
-BLOG
+# [爱心岛随手记]（https://github.com/aixindao/aixindao.github.io/issues）
+
+
+
